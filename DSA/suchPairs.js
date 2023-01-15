@@ -74,7 +74,6 @@ function SuchPair(n, k, arr) {
   }
 }
 
-
 if (process.env.USERNAME === "") {
   runProgram(``);
 } else {
